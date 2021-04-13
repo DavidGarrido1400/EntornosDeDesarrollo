@@ -127,8 +127,8 @@ public class PanelCalculadora {
 		frame.getContentPane().add(lblNewLabel_2, gbc_lblNewLabel_2);
 
 		jtfResultado = new JTextField();
-		jtfResultado.setEnabled(false); // Deshabilitado
-		jtfResultado.setEditable(false); // No editable
+		jtfResultado.setEnabled(false); 
+		jtfResultado.setEditable(false); 
 		GridBagConstraints gbc_jtfResultado = new GridBagConstraints();
 		gbc_jtfResultado.insets = new Insets(0, 0, 5, 0);
 		gbc_jtfResultado.fill = GridBagConstraints.HORIZONTAL;
@@ -178,7 +178,7 @@ public class PanelCalculadora {
 		// Obtener los números de cada JTextField
 		int num1 = Integer.parseInt(jtfNumUno.getText());
 		int num2 = Integer.parseInt(jtfNumDos.getText());
-		// Realizar la suma
+		// Realiza la suma
 		int resultado = num1 + num2;
 		// Mostrar resultado en la etiqueta
 		jtfResultado.setText("" + resultado);
