@@ -12,7 +12,7 @@
 	<category_index>0</category_index>
 	<zoom>1.0</zoom>
 	<x>0</x>
-	<y>20</y>
+	<y>-24</y>
 	<default_color>
 		<r>128</r>
 		<g>128</g>
@@ -135,7 +135,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2021-04-12 11:18:05</creation_date>
-			<updated_date>2021-04-13 09:42:53</updated_date>
+			<updated_date>2021-04-13 09:44:58</updated_date>
 			<model_property>
 				<name>Project Name</name>
 				<value></value>
@@ -813,7 +813,7 @@
 				<font_name>Segoe UI</font_name>
 				<font_size>9</font_size>
 			<x>732</x>
-			<y>194</y>
+			<y>132</y>
 			<color>
 				<r>128</r>
 				<g>128</g>
@@ -1293,8 +1293,8 @@
 			<width>167</width>
 				<font_name>Segoe UI</font_name>
 				<font_size>9</font_size>
-			<x>756</x>
-			<y>480</y>
+			<x>744</x>
+			<y>414</y>
 			<color>
 				<r>128</r>
 				<g>128</g>
@@ -1524,12 +1524,12 @@
 		</table>
 		<table>
 			<id>6</id>
-			<height>86</height>
+			<height>128</height>
 			<width>162</width>
 				<font_name>Segoe UI</font_name>
 				<font_size>9</font_size>
-			<x>744</x>
-			<y>339</y>
+			<x>735</x>
+			<y>252</y>
 			<color>
 				<r>128</r>
 				<g>128</g>
@@ -1742,7 +1742,7 @@
 				<font_name>Segoe UI</font_name>
 				<font_size>9</font_size>
 			<x>720</x>
-			<y>24</y>
+			<y>-12</y>
 			<color>
 				<r>128</r>
 				<g>128</g>
