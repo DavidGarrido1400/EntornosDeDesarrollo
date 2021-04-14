@@ -80,7 +80,7 @@ public class PanelCalculadora {
 		frame.getContentPane().add(panel_1, gbc_panel_1);
 		panel_1.setLayout(new FlowLayout(FlowLayout.CENTER, 5, 5));
 
-		JLabel lblNewLabel_3 = new JLabel("Calculadora");
+		JLabel lblNewLabel_3 = new JLabel("Sumador");
 		lblNewLabel_3.setFont(new Font("Comic Sans MS", Font.BOLD, 20));
 		panel_1.add(lblNewLabel_3);
 
